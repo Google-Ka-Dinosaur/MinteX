@@ -1,5 +1,5 @@
-# AI NFT Generator
-
+# MinteX
+The AI Powered NFT generating Dapp
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)

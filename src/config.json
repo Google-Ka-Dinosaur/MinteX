@@ -1,0 +1,12 @@
+{
+    "31337": {
+        "nft": {
+            "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+        }
+    },
+    "11155111": {
+        "nft": {
+            "address": "0xC5e6C385759273fC41c7A1eC7E1B9F63FBFfA7eA"
+        }
+    }
+}
